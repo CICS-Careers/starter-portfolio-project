@@ -20,6 +20,14 @@ A starter personal portfolio project using web technologies
 8. Name your changes
 9. Click on `commit changes`
 10. Visit your personal URL to veiw your changes!
-
 [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+
+### CSS Resources
+# CSS is a great way to enhance the look of your website! Here are some great CSS resources to look at
+1. [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
+2. [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/beginner/)
+3. [CSS Intermediate Tutorial](https://www.htmldog.com/guides/css/intermediate/)
+4. [CSS Advanced Tutorial](https://www.htmldog.com/guides/css/advanced/)
+5. [CSS Reference](https://www.w3schools.com/cssref/)
+6. [CSS Battle](https://cssbattle.dev/)
 
