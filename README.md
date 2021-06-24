@@ -22,6 +22,13 @@ A starter personal portfolio project using web technologies
 10. Visit your personal URL to veiw your changes!
 [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
+# HTML Resources
+### Learn how to structure your webpage
+1. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+2. [HTML Tutorial](w3schools.com/html/)
+3. [HTML For Beginners The Easy Way](https://html.com/)
+4. [Code Camp: Learn HTML](https://www.codecademy.com/learn/learn-html)
+
 # CSS Resources
 ### CSS is a great way to enhance the look of your website! Here are some great CSS resources to look at
 1. [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
@@ -30,4 +37,7 @@ A starter personal portfolio project using web technologies
 4. [CSS Advanced Tutorial](https://www.htmldog.com/guides/css/advanced/)
 5. [CSS Reference](https://www.w3schools.com/cssref/)
 6. [CSS Battle](https://cssbattle.dev/)
+
+# JS Resources
+### [Join us for our "Coding with Careers - JavaScript" Workshop!](https://umass.joinhandshake.com/events/776660)
 
