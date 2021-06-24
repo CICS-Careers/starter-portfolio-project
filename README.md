@@ -8,7 +8,7 @@ A starter personal portfolio project using web technologies
 └── README.md
 ```
 
-# Getting Started
+# Getting Started 
 
 1. Click `Use this template` (GitHub) at the top of the page.
 2. Name your repository *your GitHub user name*.github.io
