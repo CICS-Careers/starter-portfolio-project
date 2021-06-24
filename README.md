@@ -22,8 +22,8 @@ A starter personal portfolio project using web technologies
 10. Visit your personal URL to veiw your changes!
 [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
-### CSS Resources
-# CSS is a great way to enhance the look of your website! Here are some great CSS resources to look at
+# CSS Resources
+### CSS is a great way to enhance the look of your website! Here are some great CSS resources to look at
 1. [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
 2. [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/beginner/)
 3. [CSS Intermediate Tutorial](https://www.htmldog.com/guides/css/intermediate/)
