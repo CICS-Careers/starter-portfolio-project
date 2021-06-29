@@ -39,5 +39,12 @@ A starter personal portfolio project using web technologies
 6. [CSS Battle](https://cssbattle.dev/)
 
 # JS Resources
-### [Join us for our "Coding with Careers - JavaScript" Workshop!](https://umass.joinhandshake.com/events/776660)
+### JavaScript is the magic under the hood of your website. Use it to create new features, implement libraries and more!
+1. [The Modern JavaScript Tutorial](https://javascript.info/)
+2. [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+4. [HTML Dog: Advanced JavaScript Tutorial](https://htmldog.com/guides/javascript/advanced/)
+5. [Library: P5.js](https://p5js.org/)
+6. [Library: Three.js](https://threejs.org/)
+7. [Library: D3.js]https://d3js.org/)
+
 
