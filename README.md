@@ -45,6 +45,6 @@ A starter personal portfolio project using web technologies
 4. [HTML Dog: Advanced JavaScript Tutorial](https://htmldog.com/guides/javascript/advanced/)
 5. [Library: P5.js](https://p5js.org/)
 6. [Library: Three.js](https://threejs.org/)
-7. [Library: D3.js]https://d3js.org/)
+7. [Library: D3.js](https://d3js.org/)
 
 
