@@ -51,8 +51,8 @@ A starter personal portfolio project using web technologies
 ### For all you visual learners!
 1. [Full Crash course on web Development from Edureka!](https://www.youtube.com/watch?v=Q33KBiDriJY)
 2. [Learn HTML in one hour](https://www.youtube.com/watch?v=qz0aGYrrlhU)
-3.[CSS Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-4.[JavaScript full course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+3. [CSS Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+4. [JavaScript full course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 
 
