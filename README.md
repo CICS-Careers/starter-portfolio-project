@@ -25,7 +25,7 @@ A starter personal portfolio project using web technologies
 # HTML Resources
 ### Learn how to structure your webpage
 1. [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-2. [HTML Tutorial](w3schools.com/html/)
+2. [HTML Tutorial](https://www.tutorialspoint.com/html/index.htm)
 3. [HTML For Beginners The Easy Way](https://html.com/)
 4. [Code Camp: Learn HTML](https://www.codecademy.com/learn/learn-html)
 
@@ -46,5 +46,13 @@ A starter personal portfolio project using web technologies
 5. [Library: P5.js](https://p5js.org/)
 6. [Library: Three.js](https://threejs.org/)
 7. [Library: D3.js](https://d3js.org/)
+
+# Videos
+### For all you visual learners!
+1. [Full Crash course on web Development from Edureka!](https://www.youtube.com/watch?v=Q33KBiDriJY)
+2. [Learn HTML in one hour](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+3.[CSS Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+4.[JavaScript full course](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
 
 
